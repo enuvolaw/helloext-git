@@ -7,7 +7,7 @@ Ext.application({
             layout: 'fit',
             items: [
                 {
-                    title: 'Hello Ext',
+                    title: 'Hello Ext Git',
                     html : 'Hello! Welcome to Ext JS.'
                 }
             ]
